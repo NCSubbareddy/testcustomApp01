@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-06-04 06:16:10</sys_created_on>
+        <sys_id>9d701eceb83d3300964f8ecb7c7e719c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_custom29_table.x_custom29.user</sys_name>
+        <sys_package display_value="custom29" source="x_custom29">b8705aceb83d3300964f8ecb7c7e71aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="custom29">b8705aceb83d3300964f8ecb7c7e71aa</sys_scope>
+        <sys_security_acl display_value="x_custom29_table">d5701eceb83d3300964f8ecb7c7e719a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9d701eceb83d3300964f8ecb7c7e719c</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-06-04 06:16:10</sys_updated_on>
+        <sys_user_role display_value="x_custom29.user" name="x_custom29.user">09701eceb83d3300964f8ecb7c7e7163</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

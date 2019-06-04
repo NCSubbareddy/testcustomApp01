@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_custom29.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-06-04 06:16:10</sys_created_on>
+        <sys_id>09701eceb83d3300964f8ecb7c7e7163</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_custom29.user</sys_name>
+        <sys_package display_value="custom29" source="x_custom29">b8705aceb83d3300964f8ecb7c7e71aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="custom29">b8705aceb83d3300964f8ecb7c7e71aa</sys_scope>
+        <sys_update_name>sys_user_role_09701eceb83d3300964f8ecb7c7e7163</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-06-04 06:16:10</sys_updated_on>
+    </sys_user_role>
+</record_update>
